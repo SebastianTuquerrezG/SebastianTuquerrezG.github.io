@@ -3,3 +3,5 @@ Con el buenardo de Fredito.
 
 Tengo 19 años.
 Y este es mi repo.
+
+Estoy aprendiendo a programar.
