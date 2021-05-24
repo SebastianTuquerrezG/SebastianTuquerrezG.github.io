@@ -1,0 +1,5 @@
+Este es mi inicio en aprender Git y Github
+Con el buenardo de Fredito.
+
+Tengo 18 años.
+Y este es mi repo.
