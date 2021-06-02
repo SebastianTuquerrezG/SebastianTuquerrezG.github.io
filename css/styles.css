@@ -46,6 +46,13 @@ body
     font-size: 70px;
 }
 
+.clongoogle
+{
+    width: auto;
+    height: 200px;
+    padding-left: 170px;
+}
+
 .post
 {
     background: white;
