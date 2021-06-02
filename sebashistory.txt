@@ -6,4 +6,6 @@ Y este es mi repo.
 
 Estoy aprendiendo a programar.
 Soy Fredito, ayudare a construir este proyecto y 
-enseñarle a Sebastian a usar Git y GitHub.b.
+enseñarle a Sebastian a usar Git y GitHub.
+Ahora colaboro en este proyecto Open Source, para aprender
+sobre Forks.
